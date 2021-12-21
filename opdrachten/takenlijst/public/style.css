@@ -1,0 +1,18 @@
+table tr {
+  border: 1px solid lightgray;
+}
+table tr th {
+  padding: 5px;
+}
+table tr td {
+  padding: 5px;
+}
+table tr:nth-child(even) {
+  background-color: lightgray;
+}
+
+.message {
+  background-color: lightblue;
+}
+
+/*# sourceMappingURL=style.css.map */
